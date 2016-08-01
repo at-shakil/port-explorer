@@ -1,0 +1,3 @@
+class PortExplorer::Scanner
+end
+
